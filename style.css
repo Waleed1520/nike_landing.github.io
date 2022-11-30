@@ -73,7 +73,7 @@ display: inline-block;
 
 
         
-        width: 40%;
+        width: 20%;
         float: left;
         
 
@@ -81,8 +81,8 @@ display: inline-block;
 
 .image img{
 
-	height: 1000px;
-	width: 1000px;
+	height: 800px;
+	width: 800px;
 	
 	margin-top: -250px;
 margin-left: -110px;
